@@ -14,7 +14,7 @@ int main() {
 
     printf("%s\n", lowercase);*/
 
-    printf("%d\n", xo("xoxxoomxl"));
+    printf("%d\n", xo("xoxxoomxo"));
 
     return 0;
 }

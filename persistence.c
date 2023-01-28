@@ -15,7 +15,7 @@ int persistence_recursive(int num, int count);
 int persistence(int num);
 
 int main() {
-    printf("%d\n", persistence(25));
+    printf("%d\n", persistence(999));
     int num = 999;
 
     return 0;
